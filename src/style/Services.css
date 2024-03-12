@@ -1,0 +1,48 @@
+.flipcard{ 
+    width: 700px; 
+    height: 250px; 
+    border: 10px solid skyblue;
+    border-radius: 5px; 
+    color: white;
+    background:  rgb(29, 165, 170);
+    text-align: center;
+    
+}
+
+.card-back{
+    background: white;
+    width: 700px; 
+    height: 250px; 
+    border: 10px solid skyblue;
+    border-radius: 5px; 
+    color: black;
+    font-weight: semibold;
+    text-align: center;
+    
+} 
+
+.card-back h3{
+    padding-top: 50px;
+}
+
+
+
+
+.cardblock{
+    /* float:left; */
+    display: flex;
+    padding: 20px;
+    padding-left: 150px;
+    background-color: transparent;
+    
+}
+
+
+.flip-container{
+    display: block;
+    width: 75%;
+    background-color: transparent;
+    margin: auto; 
+    border-radius: 25px;
+    margin-top: 25px;
+}

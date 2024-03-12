@@ -1,0 +1,60 @@
+.main{
+    width: 75%;
+    margin: auto; 
+    background-color: white;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
+
+.card{
+   
+    display: block;
+    align-items: center;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    margin: auto;
+    height: 500px;
+    padding-top: 20px;
+}
+
+.displaybg{
+    
+    display: flex;
+    margin: 0 auto;
+   
+    height: 15rem;
+    width: 25rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pic{
+    width: 23rem;
+    height: 15rem;
+    padding: 20px;
+    border-radius: 25px;
+    
+} 
+
+/* .contenttext{
+    
+    flex-direction: column;
+    justify-content: center;
+    
+} */
+
+.info{
+    background-color: white;
+    text-align: center;
+    margin: 0 auto;
+    width: 25rem;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+
+    
+}

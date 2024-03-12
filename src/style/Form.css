@@ -1,0 +1,81 @@
+.form-container{
+    display: flex;
+    width: 75%;
+    background-color: white;
+    margin: auto; 
+    border-radius: 25px;
+    margin-top: 25px;
+    
+    
+
+}
+.contactForm {
+    margin: 0 auto; 
+    display: block; 
+    width: 400px; 
+    background-color: rgb(29, 165, 170); 
+    padding: 20px;
+    border-radius: 10px; 
+    opacity: 100%;
+    color: black; 
+    border: 1px solid gray;
+}
+
+.contactForm label { 
+    display: block; 
+    width: 380px; 
+    padding: 5px; 
+    margin-top: 30px;
+    font-weight: bold;
+    color: black; 
+}
+
+.contactForm input{
+    display: block;
+    width: 380px; 
+    padding: 10px; 
+    border-radius: 10px; 
+    border: 1px solid gray;
+}
+
+.contactForm button {
+    display: block; 
+    margin: 40px auto;
+    width: 150px; 
+    padding: 10px; 
+    border-radius: 10px; 
+    border: 1px solid gray; 
+    color: rgb(29, 165, 170); 
+    background-color: #ffffff; 
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.contactForm textarea {
+    display: block; 
+    width: 380px; 
+    height: 100px; 
+    padding: 10px; 
+    border-radius: 10px; 
+    border: 1px solid gray}
+
+
+.contactus{
+    width: 50%;
+    padding: 50px;
+   
+}
+
+.whyus{
+    width: 50%;
+    padding: 50px;
+
+}  
+.textstyle{
+    font-weight: bold;
+    
+}
+
+.liststyle{
+    text-align: start;
+}

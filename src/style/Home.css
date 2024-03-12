@@ -1,0 +1,15 @@
+.body-text{
+    display: flex;
+    /* background-color: blue; */
+    
+    text-transform: uppercase;
+    font-size: 1.8rem;
+    font-weight: semibold;
+    color: white;
+    flex-direction: column;
+    padding: auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 100%;
+
+}

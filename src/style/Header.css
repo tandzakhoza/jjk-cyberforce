@@ -1,0 +1,58 @@
+.logo{
+    width: 5rem;
+    height: 5rem; 
+    padding: 5px;
+    padding-left: 20px;
+    mix-blend-mode: darken;
+    
+}
+#logo-name{
+    align-items: center;
+    text-align: right;
+    color: rgb(117, 71, 11);
+    font-family:'Times New Roman', Times, serif;
+   /* font-size: clamp(1rem,3vw,5rem);*/
+    font-size: 2rem;
+    font-weight: semibold;
+    font-style: italic;
+    padding: 25px;
+    padding-left: 8px;
+}
+.header{
+    display: flex;
+    background-color: transparent;
+    
+    
+}
+
+.header-menu{
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    padding-left: 30%;
+    font-weight: bold;
+    
+}
+.bttn{
+    color: black;
+    text-decoration: none;
+}
+
+.bttn:hover{
+    cursor: pointer;
+    color: rgb(29, 165, 170);
+
+}
+
+.btn{
+    display: block; 
+    padding: 5px;
+    width: 100px; 
+    border-radius: 10px; 
+    border: 1px solid  rgb(29, 165, 170);
+    color: black;
+    font-weight: bold;
+    background-color:  transparent;
+  
+}
